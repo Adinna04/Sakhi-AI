@@ -2,6 +2,10 @@
 
 Sakhi AI is an AI-powered digital companion designed for women.
 
+## 🚀 Live Demo
+
+🔗 https://your-live-link-here.com
+
 ## Features
 
 - 💬 AI Chat Assistant
@@ -22,3 +26,14 @@ Sakhi AI is an AI-powered digital companion designed for women.
 ## Vision
 
 To empower women through wellness, safety, education, and opportunities.
+
+## Author
+
+Adinna Thaware
+
+### Connect With Me
+
+- GitHub: https://github.com/Adinna04
+- LinkedIn: https://www.linkedin.com/in/adinna-thaware-672116211
+- Email: [adinnathaware2004@gmail.com](mailto:adinnathaware2004@gmail.com)
+  Live Website: https://adinna04.github.io/Sakhi-AI/
